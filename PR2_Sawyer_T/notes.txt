@@ -1,0 +1,60 @@
+// ----------------------------------------------------
+// UVM CS 195 / Math 195 ------------------------------
+// FINAL PROJECT NOTES - notes.txt --------------------
+// Author(s): Tyler J. Sawyer - Last Updated: 5/1/14 --
+// Contact : tsawyer1@uvm.edu -------------------------
+// ----------------------------------------------------
+// --------------------------------------------------------------------------------------------------------------
+
+[4/22/14::9:51] Initial File Creation. Built all required files and file structures.
+	Documented the readme.txt file and started the notes.txt file.
+	Built 'skeleton' report.ipynb file with basic formatting.
+	Inserted the 'Goals / Questions' sections into my report for easy reference.
+
+// --------------------------------------------------------------------------------------------------------------
+
+[4/22/14::10:05] Added final project Background summary to my final report file.
+
+// --------------------------------------------------------------------------------------------------------------
+
+[4/22/14::11:25] Built initial file structure for final report.
+
+// --------------------------------------------------------------------------------------------------------------
+
+[4/23/14::14:56] Began to format final project file and initial GitHub setup for scripting backups.
+
+// --------------------------------------------------------------------------------------------------------------
+
+[4/28/14::17:35] Definitely glad I backed up data .. VirtualMachine running Canopy has failed to launch.
+		After several hours of attempting to recover the virtual machine, I have decided to build
+		a new Virtual Machine on a different computer to hopefully handle Canopy and its memory 
+		requirements better.
+
+		Final Project files had been backed up, so I just need to set up another Linux Virtual Machine
+		and re-install Canopy.
+
+// --------------------------------------------------------------------------------------------------------------
+
+[4/30/14::18:42] Built a new VirtualMachine environment for running Canopy. Restarting progress on Final
+		Project.
+
+// --------------------------------------------------------------------------------------------------------------
+
+[5/1/14::12:36] Starting to obtain data sets and ensure data files are properly formatted.
+
+// --------------------------------------------------------------------------------------------------------------
+
+[5/1/14::12:36] I now have the majority of the data sets. Most of them have some interesting formatting (namely, some 
+		titles and and additional footnotes acknowledging their aquisition. Going to see if I can write a simple 
+		python script to start pulling the data out of these spreadsheets.
+
+// --------------------------------------------------------------------------------------------------------------
+
+[5/1/14::13:35] Spent the past hour formatting my report and filling in some of the necessary information, such as 
+		the data set links, the licenses for all of these datasets, and some of the formal questions I will 
+		be investigating throughout my report. Now I shall begin writing python scripts to pull data out of these
+		spreadsheets.
+
+
+
+
