@@ -78,12 +78,12 @@ state2LatLong = [['AK',47.1700,-128.5708],
 for i in range(len(state2LatLong)):
     # Get the x,y coordinate for the geoplot. Note: It's Long / Lat.
     x, y = geoMap(state2LatLong[i][2],state2LatLong[i][1])
-    plt.plot(x,y,'ro')
-    plt.text(x+10000,y+10000,state2LatLong[i][0], bbox=dict(facecolor='yellow',alpha=0.5))
+    geoMap.plot(x,y,'ro')
+    geoMap.text(x+10000,y+10000,state2LatLong[i][0], bbox=dict(facecolor='yellow',alpha=0.5))
     
 
 # Adjust size of image
-plt.gcf().set_size_inches(12.0,8.0)
+geoMap.gcf().set_size_inches(12.0,8.0)
 # Add Title and show.
-plt.title("Location Distribution of Users")
-plt.show()
+geoMap.title("Location Distribution of Users")
+geoMap.show()
