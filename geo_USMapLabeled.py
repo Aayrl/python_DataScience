@@ -1,11 +1,10 @@
-from mpl_toolkits.basemap import Basemap # For GeoPlotting locations of users
-import numpy as np # For GeoPlotting locations of users
-import re # For GeoPlotting user locations.
-
 # GEOPLOT
 # TYLER J. SAWYER - 2/10/14
 # Updated: 16:20 on May 01, 2014 (Thursday)
-# Thanks : http://www.packtpub.com/article/plotting-geographical-data-using-basemap
+# Based from this example : http://www.packtpub.com/article/plotting-geographical-data-using-basemap
+
+from mpl_toolkits.basemap import Basemap # For GeoPlotting.
+import matplotlib.pyplot as plt # For showing state labels.
 
 # Lambert Conformal map of USA lower 48 states
 geoMap = Basemap(llcrnrlon=-119, llcrnrlat=22, urcrnrlon=-64,
@@ -85,5 +84,5 @@ for i in range(len(state2LatLong)):
 # Adjust size of image
 geoMap.gcf().set_size_inches(12.0,8.0)
 # Add Title and show.
-geoMap.title("Location Distribution of Users")
+geoMap.title("US Map with Labels")
 geoMap.show()
