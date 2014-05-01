@@ -55,6 +55,27 @@
 		be investigating throughout my report. Now I shall begin writing python scripts to pull data out of these
 		spreadsheets.
 
+// --------------------------------------------------------------------------------------------------------------
+
+[5/1/14::14:38] Built a GitHub repo for my project for back-up storage and revision control. Going to work on 
+		extracting data from spreadsheets now.
+
+// --------------------------------------------------------------------------------------------------------------
+
+[5/1/14::15:03] Experiencing issues grabbing data from .xls files. Attempting to convert these files to CSV files and
+		then I will see if I can obtain the data from the CSV files instead.
+
+// --------------------------------------------------------------------------------------------------------------
+
+[5/1/14::15:30] Got the State Population spreadsheet in CSV format, but some of the rows were throwing weird errors.
+		Going to try a different strategy to convert to CSV.
+
+// --------------------------------------------------------------------------------------------------------------
+
+[5/1/14::15:35] State Population CSV works great. Writing a function to parse CSV into a dictionary.
+
+
+
 
 
 
