@@ -173,6 +173,13 @@
 
 [5/2/14::16:00] Still in the process of mapping the circle-animation map.
 
+// --------------------------------------------------------------------------------------------------------------
+
+[5/2/14::16:55] Close to getting the circle animation to work. Trying to figure out how to get the marker sizes to
+		increase rather than move about. Not going so well, Canopy keeps crashing. I am impressed by how 
+		aweful this software is at handling runtime errors. Rather frustrating that I have to reboot the 
+		system running Canopy every 30 minutes in order for it to run animations smoothly.
+
 
 
 
