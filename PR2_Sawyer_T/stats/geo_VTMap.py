@@ -1,9 +1,6 @@
 # For anyone that needs a map of Vermont .. ~Tyler J. Sawyer
-from mpl_toolkits.basemap import Basemap # For GeoPlotting locations of users
-
-# GEOPLOT
-# TYLER J. SAWYER - 2/10/14
-# Thanks : http://www.packtpub.com/article/plotting-geographical-data-using-basemap
+from mpl_toolkits.basemap import Basemap # For GeoPlotting.
+import matplotlib.pyplot as plt
 
 # Lambert Conformal map of Vermont
 # LL: 42.611417, -73.672795
@@ -34,7 +31,6 @@ for i in range(len(state2LatLong)):
     x, y = geoMap(state2LatLong[i][2],state2LatLong[i][1])
     plt.plot(x,y,'ro')
     plt.text(x+10000,y+10000,state2LatLong[i][0], bbox=dict(facecolor='yellow',alpha=0.5))
-    
 
 # Adjust size of image
 plt.gcf().set_size_inches(12.0,8.0)

@@ -72,10 +72,45 @@
 
 // --------------------------------------------------------------------------------------------------------------
 
-[5/1/14::15:03] State Population CSV works great. Writing a function to parse CSV into a dictionary.
+[5/1/14::15:35] State Population CSV works great. Writing a function to parse CSV into a dictionary.
 
+// --------------------------------------------------------------------------------------------------------------
 
+[5/1/14::15:51] Writing a function for parsing that particular CSV seemed unecessary. I have a script that can 
+		successfully parse this information. Time to start building some graphs.
 
+// --------------------------------------------------------------------------------------------------------------
 
+[5/1/14::16:14] Brainstormed ideas for graphs to demonstrate my data sets. I think I'll builda heat map of the US 
+		continent based on US Population and US Population density for each of the year brackets. If I have 
+		time, I may use the JSAnimation library to animate these if I can figure that out.
 
+		Then I'll play around with histograms and see if we can get side by side comparisons of states and 
+		their population / population densities.
+
+		Then i'll try to get some Wunderground weather data for each of these year brackets, do a similar heat 
+		map for Precipitation and average temperature and then attempt to see any relation between the
+		two maps.
+
+// --------------------------------------------------------------------------------------------------------------
+
+[5/1/14::16:33] Got the US Map showing up just wonderfully. Now to see if I can populate it with HeatMap Data.
+
+// --------------------------------------------------------------------------------------------------------------
+
+[5/1/14::17:49] After a lot of work, I got the heatmap working. I am now tweaking it to work with my data and
+		perhaps I will make a heatmap generator function for future heatmaps. We'll see how this works with time.
+		My goal is to have a couple of these maps by the end of the day and maybe even have a simple JSAnimation
+		for a sequence of these maps.
+
+// --------------------------------------------------------------------------------------------------------------
+
+[5/1/14::18:29] GOT THE HEAT MAP TO WORK! Now to play with the display options and make it look fancy.
+		Next, I'll try to get some animations rolling, or perhaps build a function for generating
+		heatmaps. 
+
+// --------------------------------------------------------------------------------------------------------------
+
+[5/1/14::18:46] Done styling HeatMap. Taking a break for food, then possibly build a function for generating HeatMaps.
+		Then, I will play with JSAnimation library to see if I can animate some HeatMaps.
 
