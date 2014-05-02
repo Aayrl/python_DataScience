@@ -122,3 +122,4 @@ buildHeatmap(population1960,"US Population - 1960","Population (1,000)",plt.cm.B
 buildHeatmap(population1970,"US Population - 1970","Population (1,000)",plt.cm.BuGn_r,0,25000)
 buildHeatmap(population1980,"US Population - 1980","Population (1,000)",plt.cm.BuGn_r,0,25000)
 buildHeatmap(population1990,"US Population - 1990","Population (1,000)",plt.cm.BuGn_r,0,25000)
+

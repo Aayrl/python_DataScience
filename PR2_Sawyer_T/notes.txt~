@@ -114,3 +114,36 @@
 [5/1/14::18:46] Done styling HeatMap. Taking a break for food, then possibly build a function for generating HeatMaps.
 		Then, I will play with JSAnimation library to see if I can animate some HeatMaps.
 
+// --------------------------------------------------------------------------------------------------------------
+
+[5/1/14::20:25] Managed to construct a buildHeatMap function. Going to push to GitHub and then incorporate this into
+		my final data report (ipynb) file. Next step is to try and animate this.
+
+// --------------------------------------------------------------------------------------------------------------
+
+[5/1/14::23:01] Got the graphs showing up in the report - now I am going to try and animate this.
+
+// --------------------------------------------------------------------------------------------------------------
+
+[5/1/14::23:25] Just spent the last half hour trying to get JSAnimation to work, and it turns out there is an error 
+		with the library that the developer is aware of, and it doesn't seem to work in my notebook files.
+		I am going to skip the animation step, though it would've been powerful to show off the data trends.
+		Instead, I am going to try and see if I can do some predictive model analysis, but I will leave that for 
+		tomorrow after I get some sleep. 
+
+		I managed to get the heatmaps working for the first set of data today, so I am in at a good starting point.
+		From here, I will try to build some histograms or line graphs of this data and then see if I can start 
+		showing two datasets on the same graph, and possibly get some weather or gas price data in here at some
+		point for some different types of graphs.
+
+// --------------------------------------------------------------------------------------------------------------
+
+[5/2/14::9:45] I am back. Going to try and get JSAnimation to work again. Otherwise, I'll go back to the circle approach
+		from my midterm project and simply overlay different color and size circles for different data sets 
+		over the map of the US and use that kind of a formatting to show comparisons between data sets.
+
+// --------------------------------------------------------------------------------------------------------------
+
+[5/2/14::10:33] Got the JSAnimation library to work properly. Now going to try and see if I can overlay the heatmaps on top
+		of this animation platform.
+
