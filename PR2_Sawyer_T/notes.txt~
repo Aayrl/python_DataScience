@@ -147,3 +147,35 @@
 [5/2/14::10:33] Got the JSAnimation library to work properly. Now going to try and see if I can overlay the heatmaps on top
 		of this animation platform.
 
+// --------------------------------------------------------------------------------------------------------------
+
+[5/2/14::10:57] After looking at some examples, I have a working JSAnimation of a point moving around a world map.
+		Fascinating. Let's see if I can integrate my heatmaps into this type of a format and then we will be
+		rocking and rolling with some snazzy looking animations of my data sets over a period of time
+		Woohoo!
+
+// --------------------------------------------------------------------------------------------------------------
+
+[5/2/14::12:24] Been wrangling with the heatmap animation for about two hours now. Having difficulties getting the map 
+		to update with the animation, though I can load the individual frames just fine. Not sure where to go 
+		from here, no documentation available on the web for this type of problem, and there are no examples 
+		of something similar. Looks like I'll have to just play around with it for the next hour or so and see
+		if I can get it to work. If I have nothing by 13:30, I'll go with the circle size solution and then 
+		continue progress on this project.
+
+// --------------------------------------------------------------------------------------------------------------
+
+[5/2/14::14:22] Spent the past two hours trying to get the HeatMap animation to work to no avail. I'm going to fall
+		back to the Circle representation I used on the VT Map from my Midterm Project and animate those
+		over time instead - will be so much easier to implement.
+
+// --------------------------------------------------------------------------------------------------------------
+
+[5/2/14::16:00] Still in the process of mapping the circle-animation map.
+
+
+
+
+
+
+
