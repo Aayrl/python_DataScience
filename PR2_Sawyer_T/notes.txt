@@ -185,6 +185,22 @@
 [5/2/14::17:25] GOT IT TO WORK! Now I am trying to add some date animation to the whole thing so we can fully see
 		the evolution of aspects over time.
 
+// --------------------------------------------------------------------------------------------------------------
+
+[5/2/14::17:41] Got some Date Annotations on the animation now. It's very pretty, and I am glad I got -something- to work.
+		A heatmap would've been much better, but this will work sufficiently. 
+
+		I am now working on importing my next data set and the first cross-dataset analysis.
+
+// --------------------------------------------------------------------------------------------------------------
+
+[5/2/14::18:06] Got the next set of data imported properly (unemployment percentages). I am going to break for food 
+		and then hopefully do some heatmaps with the unemployment rates and then do an animation for that.
+		Then, I'll overlay that animation with the population animation to see if the population is 
+		correlated with the unemployment rate.
+
+
+
 
 
 
