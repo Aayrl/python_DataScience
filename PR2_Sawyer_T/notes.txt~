@@ -244,6 +244,40 @@
 [5/2/14::22:30] Got the housing cost heat maps working okay. Can really see the big housing drop between 2007 
 		and 2008. Currently waiting for the animation function to fully process. Should hopefully work okay.
 
+// --------------------------------------------------------------------------------------------------------------
+
+[5/2/14::22:47] Animation function worked great. Comparing Population to Housing Costs now, and then will compare 
+		unemployment to housing costs. Both animations. Should be wonderful.
+
+// --------------------------------------------------------------------------------------------------------------
+
+[5/2/14::23:11] Got the animations for Housing Costs + Population and Housing Costs + Unemployment working.
+		Heading home for the day. Will return early tomorrow to finish the project (hopefully). Got
+		3 or 4 data sets to pound through, but all of the grunt work (building functions) is done. 
+		I simply need to scrub the data and make it pretty in the animations and then analyze the trends 
+		I see. Should hopefully take me maybe 10 more hours of work.
+
+		Great progress today! Excited the animations are working!
+
+// --------------------------------------------------------------------------------------------------------------
+
+[5/3/14::17:28] Back to work .. wish I could've started earlier this morning but I guess I'll work late tonight.
+		Working on annual wage data and then I'll spend some time looking for trends between this and 
+		other data sets. Then, I'll look into the purchasing power of the dollar and check out its correlation
+		with my data sets.
+
+		Lastly, time permitting, I'll grab some weather and gas price data (Hopefully, though I know I can 
+		get the weather data) and see if I can form any correlations between weather and the previous
+		data sets.
+
+// --------------------------------------------------------------------------------------------------------------
+
+[5/3/14::17:54] Got the heatmaps for the annual wages working. Going to work on the animation portion now.
+
+
+
+ 
+
 
 
 
