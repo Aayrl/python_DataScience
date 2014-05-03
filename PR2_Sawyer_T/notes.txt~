@@ -220,6 +220,22 @@
 [5/2/14::21:17] Played some Import Magic and the original animate function works again. Now to try and get unemployment
 		data to animate...not sure why it's complaining. It's literally the same type of data.
 
+// --------------------------------------------------------------------------------------------------------------
+
+[5/2/14::21:30] Got the unemployment animation to work. The issue? Floats are not equal to integers, and the
+		animation library cried when it was given floats instead of integers. I told it to parse them as
+		floats and It was all happy. Wow. Unemployment skyrocketed in 2009. Time to overlay this data with
+		my population data.
+
+// --------------------------------------------------------------------------------------------------------------
+
+[5/2/14::21:57] Got the unemployment animation to work with the population animation. Does not seem to be any powerful
+		correlation between the two. Time to investigate cost of living vs population and see how that fairs.
+
+
+
+
+
 
 
 

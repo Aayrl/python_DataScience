@@ -1,7 +1,7 @@
 // ----------------------------------------------------
 // UVM CS 195 / Math 195 ------------------------------
 // FINAL PROJECT NOTES - notes.txt --------------------
-// Author(s): Tyler J. Sawyer - Last Updated: 5/1/14 --
+// Author(s): Tyler J. Sawyer - Last Updated: 5/2/14 --
 // Contact : tsawyer1@uvm.edu -------------------------
 // ----------------------------------------------------
 // --------------------------------------------------------------------------------------------------------------
@@ -226,6 +226,13 @@
 		animation library cried when it was given floats instead of integers. I told it to parse them as
 		floats and It was all happy. Wow. Unemployment skyrocketed in 2009. Time to overlay this data with
 		my population data.
+
+// --------------------------------------------------------------------------------------------------------------
+
+[5/2/14::21:57] Got the unemployment animation to work with the population animation. Does not seem to be any powerful
+		correlation between the two. Time to investigate cost of living vs population and see how that fairs.
+
+
 
 
 
