@@ -239,6 +239,11 @@
 		purchasing and maintaining a house in each state in the US, so this should be a fairly accurate 
 		substitute. We shall soon see.
 
+// --------------------------------------------------------------------------------------------------------------
+
+[5/2/14::22:30] Got the housing cost heat maps working okay. Can really see the big housing drop between 2007 
+		and 2008. Currently waiting for the animation function to fully process. Should hopefully work okay.
+
 
 
 

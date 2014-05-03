@@ -244,6 +244,11 @@
 [5/2/14::22:30] Got the housing cost heat maps working okay. Can really see the big housing drop between 2007 
 		and 2008. Currently waiting for the animation function to fully process. Should hopefully work okay.
 
+// --------------------------------------------------------------------------------------------------------------
+
+[5/2/14::22:47] Animation function worked great. Comparing Population to Housing Costs now, and then will compare 
+		unemployment to housing costs. Both animations. Should be wonderful.
+
 
 
 
