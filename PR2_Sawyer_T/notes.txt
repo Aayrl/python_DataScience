@@ -199,6 +199,12 @@
 		Then, I'll overlay that animation with the population animation to see if the population is 
 		correlated with the unemployment rate.
 
+// --------------------------------------------------------------------------------------------------------------
+
+[5/2/14::19:55] Back in action making heat maps for unemployment rates.
+
+
+
 
 
 
