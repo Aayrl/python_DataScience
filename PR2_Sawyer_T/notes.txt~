@@ -199,6 +199,29 @@
 		Then, I'll overlay that animation with the population animation to see if the population is 
 		correlated with the unemployment rate.
 
+// --------------------------------------------------------------------------------------------------------------
+
+[5/2/14::19:55] Back in action making heat maps for unemployment rates.
+
+// --------------------------------------------------------------------------------------------------------------
+
+[5/2/14::21:04] Got unemployment heatmaps working just fine - having some weird issues with the animation for the 
+		unemployment to work properly. Restarting canopy to see if I can get it to work properly.
+
+// --------------------------------------------------------------------------------------------------------------
+
+[5/2/14::21:13] So...now for some reason my JSAnimation library is not correctly generating animations from the script 
+		that was working not more than an hour ago. Very peculiar. I'm trying to 'fix' it. In the meantime, I
+		am leaving the one JSAnimation that was working alone in the unfortunate event I cannot recover the 
+		function - though I have no idea why it's suddenly not working.
+
+// --------------------------------------------------------------------------------------------------------------
+
+[5/2/14::21:17] Played some Import Magic and the original animate function works again. Now to try and get unemployment
+		data to animate...not sure why it's complaining. It's literally the same type of data.
+
+
+
 
 
 
