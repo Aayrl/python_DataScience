@@ -232,6 +232,13 @@
 [5/2/14::21:57] Got the unemployment animation to work with the population animation. Does not seem to be any powerful
 		correlation between the two. Time to investigate cost of living vs population and see how that fairs.
 
+// --------------------------------------------------------------------------------------------------------------
+
+[5/2/14::22:05] So it turns out the cost of living spreadsheet from the US Census Bureau was corrupt, but thankfully
+		I have the average housing costs for each year between 1991 and 2010. This shows the average cost of 
+		purchasing and maintaining a house in each state in the US, so this should be a fairly accurate 
+		substitute. We shall soon see.
+
 
 
 
