@@ -372,6 +372,13 @@
 [5/4/14::14:45] Got one more linear regression to calculate and then it's time to finalize the format of the project
 		as well as format my readme files, the conclusion, and of course build a quick presentation ipynb.
 
+// --------------------------------------------------------------------------------------------------------------
+
+[5/4/14::13:57] Got the last linear regression working. Documenting code and my entire project file to make it look
+		nice, and then I will go back and modify the readme file with the appropriate information.
+		After that, I will build my quick presentation ipynb and then be good to go and submit!
+		
+
 
 
 
