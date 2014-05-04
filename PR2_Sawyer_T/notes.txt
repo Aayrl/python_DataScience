@@ -342,6 +342,30 @@
 		add some different kinds of graphs (with numbers, I promise) to each section to try and get some 
 		more quantitative data with my qualitative graphs.
 
+// --------------------------------------------------------------------------------------------------------------
+
+[5/4/14::11:55] Overlay of Animations is done. Going to try and do some mathematical correlations now with
+		line graphs.
+
+// --------------------------------------------------------------------------------------------------------------
+
+[5/4/14::12:11] Got a simple correlation response for one of my datasets. I think I'll use this data to validate 
+		any trends I see in my map animations.
+
+// --------------------------------------------------------------------------------------------------------------
+
+[5/4/14::13:22] Got the first correlation output for the population vs unemployment, and it seems to model the 
+		map slightly based on the four data points it was given. Now that I have the sample calculation done,
+		I'll apply the same method to other pairs of data sets to further analyze other potential correlations
+		in the remaining datasets I have.
+
+		I probably won't have any time to look at healthcare or HMO data, but that is okay. Gives me something
+		to look at beyond the scope of this class.
+
+
+
+
+
 
 
 
