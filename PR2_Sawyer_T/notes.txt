@@ -274,6 +274,70 @@
 
 [5/3/14::17:54] Got the heatmaps for the annual wages working. Going to work on the animation portion now.
 
+// --------------------------------------------------------------------------------------------------------------
+
+[5/3/14::18:52] Got the annual wage animation working. Going to tie it in with unemployment rate and housing costs.
+		From here, I think I'm going to correlate this data with the purchasing power of the dollar, and then
+		try and do some weather and gas price analysis. Then, I'll try to do some more quantitative analysis 
+		on all of my data sets, since up until this point the majority of this report has been quite 
+		qualitative.
+
+// --------------------------------------------------------------------------------------------------------------
+
+[5/3/14::19:09] Trying to get the animation with three data points to work. Having some weird display errors.
+		This will be the last of the 'heat map' graphs, and then I'll start getting into the quantitative ones.
+
+// --------------------------------------------------------------------------------------------------------------
+
+[5/3/14::20:41] Got the animations done. Now it is time to do some quantitative analysis.
+
+// --------------------------------------------------------------------------------------------------------------
+
+[5/3/14::21:20] Still brainstorming ideas for how I am going to represent the data. I think I'll do a line graph of 
+		all the dates, and then the average annual wage and average housing cost across the United States.
+		Then, maybe I'll try and decide if there is any correlation between the two data sets.
+
+// --------------------------------------------------------------------------------------------------------------
+
+[5/3/14::22:09] Found some gas price information for each state between 1984 and 2010. I think I'll stick with my 
+		map representations since they are fairly powerful and I will draw my conclusions from these
+		types of graphical representations. If I have time, I may go back and try to run some 
+		mathematical correlations in the data, but I feel like the graphical representations are 
+		just as powerful so long as I scale the circles on the animations appropriately. 
+		I managed to get a Legend to work on one of the animations, so i'll go back later on and adjust 
+		these animatons so they have more quantitative data associated with them. I hope this suffices for 
+		the scope of the project. 
+
+// --------------------------------------------------------------------------------------------------------------
+
+[5/3/14::22:26] Unable to obtain weather information from Wunderground - way too many requests would be required 
+		to calculate yearly averages for temperature or precipitation. Also having issues obtaining 
+		datasets from NOAA without handing over cash. Looks like I'll not include weather data in this report.
+		I guess I'll do some gas price heat maps and then correlate gas prices to some of the other data 
+		sets, and then write up my conclusions and finalize my report (make it look pretty.)
+
+// --------------------------------------------------------------------------------------------------------------
+
+[5/3/14::22:51] Imported the Gas Price data successfully. Building heatmaps now and then some animations. Then i'll
+		draw some conclusions and clean up my project. Then I shall declare it finished.
+
+		I wish we had more time to work on these, but I guess we couldn't get too far into our projects 
+		without having it be verified. I think if I started the project earlier or if there were checkpoints 
+		for our project throughout the semester it would've worked out better. Nonetheless I am proud of the
+		progress I have made the past few days and I feel these animations do good justice to the data sets 
+		I am analyzing and they demonstrate my ability to extract information from data sets and display them
+		in a powerful graphical display.
+
+
+
+
+
+
+
+
+
+
+
 
 
  
