@@ -328,6 +328,13 @@
 		I am analyzing and they demonstrate my ability to extract information from data sets and display them
 		in a powerful graphical display.
 
+// --------------------------------------------------------------------------------------------------------------
+
+[5/3/14::23:49] Got the Gas Price animation to work (Finally) - took a lot of work, for some reason the circles 
+		were not showing properly, but it is working now. I will finish this project early tomorrow morning 
+		and if I have time hopefully I'll add some other types of graphs to give some variety to the project and
+		then work on my presentation slides.
+
 
 
 
