@@ -1,7 +1,7 @@
 // ----------------------------------------------------
 // UVM CS 195 / Math 195 ------------------------------
 // FINAL PROJECT NOTES - notes.txt --------------------
-// Author(s): Tyler J. Sawyer - Last Updated: 5/2/14 --
+// Author(s): Tyler J. Sawyer - Last Updated: 5/4/14 --
 // Contact : tsawyer1@uvm.edu -------------------------
 // ----------------------------------------------------
 // --------------------------------------------------------------------------------------------------------------
@@ -387,6 +387,12 @@
 
 [5/4/14::17:58] Finished introduction and pruned most of the report. Working on the conclusion now and then will tweak
 		the readme file. Then, I will work on the presentation and submit.
+
+// --------------------------------------------------------------------------------------------------------------
+
+[5/4/14::19:00] THE REPORT IS FINISHED! Time to format the readme.txt file and then design my slides for my presentation
+		on Tuesday. Should be another 30 minutes of work or so, but I will probably have to head out for a few minutes
+		(bowling league..)
 		
 
 
