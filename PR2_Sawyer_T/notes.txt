@@ -335,6 +335,15 @@
 		and if I have time hopefully I'll add some other types of graphs to give some variety to the project and
 		then work on my presentation slides.
 
+// --------------------------------------------------------------------------------------------------------------
+
+[5/4/14::11:25] Back to work .. going to overlay the gas price animation with the annual wage of each state to see
+		if the two have some kind of relationship. Then, I'm going to go back through the presentation and 
+		add some different kinds of graphs (with numbers, I promise) to each section to try and get some 
+		more quantitative data with my qualitative graphs.
+
+
+
 
 
 
