@@ -374,9 +374,19 @@
 
 // --------------------------------------------------------------------------------------------------------------
 
-[5/4/14::13:57] Got the last linear regression working. Documenting code and my entire project file to make it look
+[5/4/14::15:57] Got the last linear regression working. Documenting code and my entire project file to make it look
 		nice, and then I will go back and modify the readme file with the appropriate information.
 		After that, I will build my quick presentation ipynb and then be good to go and submit!
+
+// --------------------------------------------------------------------------------------------------------------
+
+[5/4/14::17:05] Still working on finishing up the conclusion and making the ipynb look pretty. Then on to the slides.
+		Probably another hour and I'll be finished.
+
+// --------------------------------------------------------------------------------------------------------------
+
+[5/4/14::17:58] Finished introduction and pruned most of the report. Working on the conclusion now and then will tweak
+		the readme file. Then, I will work on the presentation and submit.
 		
 
 
