@@ -362,6 +362,16 @@
 		I probably won't have any time to look at healthcare or HMO data, but that is okay. Gives me something
 		to look at beyond the scope of this class.
 
+// --------------------------------------------------------------------------------------------------------------
+
+[5/4/14::13:52] Got a linear regression for my second set of data. Slowly working through all the data to fit 
+		regression models.
+
+// --------------------------------------------------------------------------------------------------------------
+
+[5/4/14::14:45] Got one more linear regression to calculate and then it's time to finalize the format of the project
+		as well as format my readme files, the conclusion, and of course build a quick presentation ipynb.
+
 
 
 

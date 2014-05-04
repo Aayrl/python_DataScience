@@ -354,13 +354,18 @@
 
 // --------------------------------------------------------------------------------------------------------------
 
-[5/4/14::13:02] Got the first correlation output for the population vs unemployment, and it seems to model the 
+[5/4/14::13:22] Got the first correlation output for the population vs unemployment, and it seems to model the 
 		map slightly based on the four data points it was given. Now that I have the sample calculation done,
 		I'll apply the same method to other pairs of data sets to further analyze other potential correlations
 		in the remaining datasets I have.
 
 		I probably won't have any time to look at healthcare or HMO data, but that is okay. Gives me something
 		to look at beyond the scope of this class.
+
+// --------------------------------------------------------------------------------------------------------------
+
+[5/4/14::13:52] Got a linear regression for my second set of data. Slowly working through all the data to fit 
+		regression models.
 
 
 
