@@ -397,7 +397,14 @@
 // --------------------------------------------------------------------------------------------------------------
 
 [5/4/14::19:14] Began work on presentation 'slides' (ipynb). Will return to this in a few hours when I am back.
-		
+
+// --------------------------------------------------------------------------------------------------------------
+
+[5/4/14::22:03] I'm back, finishing slides and then readme file. Should be submitting before Midnight.
+
+// --------------------------------------------------------------------------------------------------------------
+
+[5/4/14::22:38] 'Slides' are done. Time for the readme file and then submission.
 
 
 
