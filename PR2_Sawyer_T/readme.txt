@@ -138,4 +138,16 @@
 		GITHUB SRC: https://github.com/jakevdp/JSAnimation
 		BSD License Information: http://opensource.org/licenses/BSD-2-Clause
 
+5) GITHUB - Information about this Project on Github
+	
+	I provide the entirety of my project online, for free, for others to use as either a reference for 
+	code or as a method of inspiration. I also host this project on my GitHub for my own personal back up storage,
+	as well as my own source of revision control and future project continuation in the future.
+	
+	You may view my online version of the project at the following location:
+
+	http://www.github.com/Aayrl/python_DataScience
+
+
+
 
