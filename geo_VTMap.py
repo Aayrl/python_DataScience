@@ -1,4 +1,5 @@
-# For anyone that needs a map of Vermont .. ~Tyler J. Sawyer
+# For anyone that needs a map of Vermont
+# Tyler J. Sawyer
 from mpl_toolkits.basemap import Basemap # For GeoPlotting.
 import matplotlib.pyplot as plt
 
